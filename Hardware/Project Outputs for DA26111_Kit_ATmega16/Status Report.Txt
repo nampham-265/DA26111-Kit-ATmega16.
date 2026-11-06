@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DA26111_Kit_ATmega16.PrjPcb]
+   Generated File[PCB_Layout-RoundHoles.TXT]
+   Generated File[PCB_Layout-SlotHoles.TXT]
+   Generated File[PCB_Layout.LDP]
+   Generated File[PCB_Layout.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:04:07 AM On 11/7/2026

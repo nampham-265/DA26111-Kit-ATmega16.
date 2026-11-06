@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\PROJECT\GITHUB\DA26111-Kit-ATmega16\Hardware\DA26111_Kit_ATmega16\PCB_Layout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_layout-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_layout-slotholes.txt|DrillLayers=gtl,gbl
