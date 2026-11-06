@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetD11_1 Pin=D11-5
+Removed Pin From Net: NetName=NetD11_1 Pin=JP2-1
+Removed Pin From Net: NetName=NetD11_3 Pin=R11-2
+Removed Pin From Net: NetName=NetD11_2 Pin=R12-2
+Change Component Footprint: Designator=D11 Old Footprint=7SEG_29x41 New Footprint=7SEGS
+Added Pin To Net: NetName=NetD11_3 Pin=D11-8
+Added Pin To Net: NetName=NetD11_3 Pin=JP2-1
+Added Pin To Net: NetName=NetD11_2 Pin=R11-2
+Added Pin To Net: NetName=NetD11_1 Pin=R12-2
+Added Pin To Net: NetName=NetD11_5 Pin=D11-5
+Added Pin To Net: NetName=NetD11_5 Pin=R15-2
+Added Net: Name=NetD11_5
